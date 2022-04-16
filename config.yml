@@ -31,7 +31,7 @@ menu:
 params:
 
   defaultTheme: light
-  disableThemeToggle: false
+  disableThemeToggle: true
      
 
   homeInfoParams:
