@@ -1,6 +1,6 @@
 ---
 title: "roster"
-draft: true
+draft: false
 ---
 
-This is the page about the roster
+TBD

@@ -1,6 +1,6 @@
 ---
 title: "contact"
-draft: true
+draft: false
 ---
 
 Fill out our [interest form](https://forms.gle/pphf1u78G2sxJ1yHA) to hear
