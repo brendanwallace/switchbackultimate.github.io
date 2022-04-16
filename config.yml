@@ -1,0 +1,42 @@
+baseURL: https://switchbackultimate.com/
+languageCode: en-us
+title: switchback ultimate
+theme: PaperMod
+pygmentsUseClasses: true
+
+
+menu:
+  main:
+    - name: vision
+      url: /vision/
+      weight: 10
+    - identifier: tryouts 2022
+      name: tryouts
+      url: tryouts2022
+      weight: 15
+    - identifier: roster
+      name: roster
+      url: /roster/
+      weight: 20
+    - identifier: schedule
+      name: schedule
+      url: /schedule/
+      weight: 30
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 40
+
+
+params:
+
+  defaultTheme: light
+  disableThemeToggle: false
+     
+
+  homeInfoParams:
+    Title: ""
+    Content: >
+      __A new competitive men's club team in Seattle__
+
+      - fill out our [_interest form_](https://forms.gle/pphf1u78G2sxJ1yHA)
