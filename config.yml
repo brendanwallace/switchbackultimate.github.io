@@ -14,10 +14,10 @@ menu:
       name: tryouts
       url: tryouts2022
       weight: 15
-    - identifier: roster
-      name: roster
-      url: /roster/
-      weight: 20
+    # - identifier: roster
+    #   name: roster
+    #   url: /roster/
+    #   weight: 20
     - identifier: schedule
       name: schedule
       url: /schedule/
