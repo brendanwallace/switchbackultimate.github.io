@@ -30,7 +30,7 @@ menu:
 
 params:
 
-  defaultTheme: light
+  defaultTheme: auto
   disableThemeToggle: true
      
 
@@ -39,4 +39,4 @@ params:
     Content: >
       __A new competitive men's club team in Seattle__
 
-      - fill out our [_interest form_](https://forms.gle/pphf1u78G2sxJ1yHA)
+      - fill out our [_tryout form_](https://forms.gle/MyZAvp25PPsvSR6S6)
