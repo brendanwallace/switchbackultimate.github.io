@@ -17,7 +17,7 @@ Fill out our: [tryout form](https://forms.gle/MyZAvp25PPsvSR6S6)
 –––
 
 Starting in April we'll have open scrimmages on Sundays (fill out the
-tryout form to stay up to date on the timing + location of those).
+tryout form to stay up to date on the timing + location of those). First scrimmage is April 24th, from 6pm-8pm at Magnuson Park.
 
 We may also invite some players to team mini/practices before then and will
 offer a number of roster spots on a rolling basis.
