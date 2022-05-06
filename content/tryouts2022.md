@@ -22,7 +22,7 @@ tryout form to stay up to date on the timing + location of those).
 Scrimmage dates:
 - Sunday April 24th, 6pm-8pm at Magnuson Park
 - Sunday May 1st, 6pm-8pm at Magnuson Park
-- (more TBD)
+- Sunday May 8th, 6pm-8pm at Magnuson Park
 
 We may also invite some players to team mini/practices before then and will
 offer a number of roster spots on a rolling basis.
