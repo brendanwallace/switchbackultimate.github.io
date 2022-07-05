@@ -1,6 +1,6 @@
 ---
 title: "tryouts 2022"
-draft: false
+draft: true
 ---
 
 We'll have two open tryouts:

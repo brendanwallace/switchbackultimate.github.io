@@ -10,9 +10,13 @@ menu:
     - name: vision
       url: /vision/
       weight: 10
-    - identifier: tryouts 2022
-      name: tryouts
-      url: tryouts2022
+    # - identifier: tryouts 2022
+    #   name: tryouts
+    #   url: tryouts2022
+    #   weight: 15
+    - identifier: scrimmages
+      name: scrimmages
+      url: /scrimmages/
       weight: 15
     - identifier: roster
       name: roster
@@ -39,4 +43,4 @@ params:
     Content: >
       __A new competitive men's club team in Seattle__
 
-      - fill out our [_tryout form_](https://forms.gle/MyZAvp25PPsvSR6S6)
+      - join us at one of our [open scrimmages](/scrimmages)
