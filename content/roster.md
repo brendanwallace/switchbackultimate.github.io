@@ -46,6 +46,8 @@ draft: false
 
 -Jimmy Chu*
 
+###### Legend:
 
 \*_Rookies_
+
 \+_Captains_
