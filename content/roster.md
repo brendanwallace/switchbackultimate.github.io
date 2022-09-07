@@ -44,10 +44,11 @@ draft: false
 
 #### Coaching & Strategy:
 
--Jimmy Chu*
+- Jimmy Chu*
 
-###### Legend:
+##### Legend:
+<font size="2">
+&nbsp;&nbsp;&nbsp;&nbsp; * Rookies
 
-\*_Rookies_
-
-\+_Captains_
+&nbsp;&nbsp;&nbsp;&nbsp;\+ Captains
+</font>
