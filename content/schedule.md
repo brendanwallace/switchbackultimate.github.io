@@ -8,14 +8,14 @@ draft: false
 
 
 #### June:
-- Summer Solstice (Eugene)
+- Summer Solstice (Eugene, OR)
 
 #### July:
 - Select Flight Invite West (Temecula, CA)
 
 #### August:
-- Ski Town Classic (SLC)
-- CBR
+- Ski Town Classic (Salt Lake City, UT)
+- CBR (Lacey, WA)
 
 #### September:
-- Series
+- Sectionals (Burlington, WA)
