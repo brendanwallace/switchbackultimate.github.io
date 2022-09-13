@@ -7,7 +7,7 @@ draft: false
 
 - Aaron Glickman*
 - Adam Fischette*+
-- Alex Semeaca*
+- Alex Semaca*
 - Alton Olson*
 - Bobby Eleveld*
 - Brendan Wallace*+
@@ -36,7 +36,7 @@ draft: false
 - Carter Schafer*
 - Ciaran Pratley*
 - Colman Bashore*
-- Jojah McMonigal
+- Jojah McMonigal*
 - Kushal Khangaonkar*
 - Max Larkin*
 - Max Rogers*
@@ -46,9 +46,5 @@ draft: false
 
 - Jimmy Chu*
 
-##### Legend:
-<font size="2">
-&nbsp;&nbsp;&nbsp;&nbsp; * Rookies
-
-&nbsp;&nbsp;&nbsp;&nbsp;\+ Captains
-</font>
+\* Rookies  <!-- this double space breaks the line, don't remove it-->
+\+ Captains
