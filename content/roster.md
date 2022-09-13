@@ -46,5 +46,5 @@ draft: false
 
 - Jimmy Chu*
 
-\* Rookies  <!-- this double space breaks the line, don't remove it-->
+\* Rookies<!-- this double space breaks the line, don't remove it-->  
 \+ Captains
