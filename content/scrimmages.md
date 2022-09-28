@@ -1,6 +1,6 @@
 ---
 title: "Open Scrimmages"
-draft: true
+draft: false
 ---
 
 Every other Saturday (not counting tournaments) during the season we host a scrimmage
