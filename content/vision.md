@@ -30,6 +30,7 @@ we try to communicate directly and early.
 - __Play__
 
 We learn by doing, prioritize touches and time spent moving, commit to
-making the most of practice, and attend a lot of tournaments.
+making the most of practice, and attend a lot of tournaments. Our goal
+celebrations border on the absurd.
 
 Come climb the mountain with us.
