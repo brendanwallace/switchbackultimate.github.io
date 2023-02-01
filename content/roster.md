@@ -1,9 +1,7 @@
 ---
-title: "2022 roster"
+title: "2022"
 draft: false
 ---
-
-#### 2022 Roster:
 
 - Aaron Glickman*
 - Adam Fischette*+

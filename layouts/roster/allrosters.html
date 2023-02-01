@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+
+    <div class="container text-center">
+
+            
+               
+                <!--This is a the custom roster index page-->
+
+        <div class="row">
+         	<p>Here's all of our rosters:</p>
+
+            {{ range .Pages }}
+                <p>
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+			{{ end }}
+        </div>
+
+    </div>
+
+{{ end }}

@@ -1,0 +1,78 @@
+{{ define "header" }}
+<!-- Post Header -->
+<style type="text/css">
+    header.intro-header {
+        background-image: url('{{ if .Params.image }}{{ .Params.image | relURL }}{{ else }}{{ .Site.Params.header_image | relURL}}{{ end }}');
+    }
+</style>
+
+<header class="intro-header" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>{{ .Title }}</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+{{ end }}
+
+
+{{ define "main" }}
+<div data-pagefind-ignore="all" class="container">
+    <div class="row text-center">
+        <div class="col-md-1"></div>
+        <div class="col-md-10 col-xs-12">
+            <!-- USE SIDEBAR -->
+            <!-- Post Container -->
+
+
+
+            <p>Seattle Switchback is a men's team focused on finding positive
+team culture in a highly competitive environment.</p>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+
+    <div class="row category">
+        <div class="col-md-6">
+            <img src="/img/huddle_roommate.jpg" style="width: 100%;"/>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-4">
+            <h2>Our vision</h2>
+            We've talked a lot about how to diffuse the dynamics that can make men's
+division experiences feel toxic, as well as what we want to focus on as a team.
+You can read about the approach we take and the values we settled on <a href="aboutus">here</a>.
+        </div>
+        <div class="col-md-1"></div>
+
+    </div>
+
+
+    <div class="row category">
+        <div class="col-md-1"></div>
+        <div class="col-md-4">
+            <h2>2023 season</h2>
+            <p>Check out our <a href="tryouts2023">tryouts page</a> for more info.
+            </p>
+        </div>
+        <div class="col-md-1"></div>
+
+        <div class="col-md-6">
+             <img src="/img/pidgeon_sideline.jpg" style="width: 100%"/>
+        </div>
+    </div>
+
+
+
+
+</div>
+<style>
+.category {
+    padding-top: 100px
+}
+</style>
+{{ end }}

@@ -1,17 +1,35 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+<!-- Page Header -->
+{{ block "header" .}}
 
-<head>
-    {{- partial "head.html" . }}
-</head>
 
-<!-- overriden so that class is always `list` to get that nice grey background-->
-<body class="list" id="top">
-    {{- partialCached "header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
-    </main>
-    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+<style type="text/css">
+    header.intro-header {
+        background-image: url('{{.Site.Params.header_image | relURL}}');
+    }
+</style>
+
+<header class="intro-header" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading text-center" style="padding-bottom: 0px">
+                    <h2>{{ .Title }}</h2>
+                    <h2 class="subheading">{{ .Params.subtitle }}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+{{ end }}
+
+
+{{ block "main" . }}
+{{ end }}
+
+{{ partial "footer.html" . }}
 </body>
-
 </html>
