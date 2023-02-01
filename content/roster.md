@@ -24,6 +24,7 @@ draft: false
 - Yoyo Nagase*
 - Max Bommarito*
 - Max Sheffield*
+- Mike Fielden*
 - Phillip Korolog*
 - Ryan Cohen*
 - Sam Thompson*
