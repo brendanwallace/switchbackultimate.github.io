@@ -1,11 +1,7 @@
 ---
-title: "2023"
-layout: roster
+title: "2023 Roster"
+layout: rosterindex
 draft: false
 ---
 
-- Adam Fischette
-- Brendan Wallace
-- Chris Padilla
-- Connor Hanify
-- Max Bommarito
+

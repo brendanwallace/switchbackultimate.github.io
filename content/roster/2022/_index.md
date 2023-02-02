@@ -1,6 +1,6 @@
 ---
-title: "2022"
-layout: roster
+title: "2022 Roster"
+layout: rosterindex
 draft: false
 ---
 

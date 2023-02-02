@@ -5,12 +5,14 @@ theme: cleanwhite
 
 
 params:
-  header_image: img/team_picture.jpg
+  header_image: img/team_picture_blur1.jpg
+  custom_css:
+    - /css/switchback.css
 
 menu:
   main:
     - name: About Us
-      url: /aboutus/
+      url: /about/
       weight: 10
     - name: tryouts
       url: /tryouts2023/
@@ -20,7 +22,7 @@ menu:
       weight: 15
     - identifier: Roster
       name: roster
-      url: /roster/2023/
+      url: /roster/2023
       weight: 20
     # - identifier: Schedule
     #   name: schedule
