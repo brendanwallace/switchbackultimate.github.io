@@ -1,44 +1,38 @@
 baseURL: https://switchbackultimate.com/
 languageCode: en-us
-title: switchback ultimate
-theme: PaperMod
-pygmentsUseClasses: true
-
-
-menu:
-  main:
-    - name: vision
-      url: /vision/
-      weight: 10
-    # - identifier: tryouts 2022
-    #   name: tryouts
-    #   url: tryouts2022
-    #   weight: 15
-    - identifier: scrimmages
-      name: scrimmages
-      url: /scrimmages/
-      weight: 15
-    - identifier: roster
-      name: roster
-      url: /roster/
-      weight: 20
-    - identifier: schedule
-      name: schedule
-      url: /schedule/
-      weight: 30
-    - identifier: contact
-      name: contact
-      url: /contact/
-      weight: 40
+title: Switchback Ultimate
+theme: cleanwhite
 
 
 params:
+  header_image: img/team_picture_blur1.jpg
+  custom_css:
+    - /css/switchback.css
+  social:
+    email: "switchbackultimate@gmail.com"
+    twitter: "https://twitter.com/switchback_ulti"
+    instagram: "https://www.instagram.com/switchback_ulti/"
 
-  defaultTheme: auto
-  disableThemeToggle: true
-     
-
-  homeInfoParams:
-    Title: ""
-    Content: >
-      __A new competitive men's club team in Seattle__
+menu:
+  main:
+    - name: About Us
+      url: /about/
+      weight: 10
+    - name: tryouts
+      url: /tryouts2023/
+      weight: 15
+    - name: scrimmages
+      url: /scrimmages/
+      weight: 15
+    - identifier: Roster
+      name: roster
+      url: /roster/2023
+      weight: 20
+    # - identifier: Schedule
+    #   name: schedule
+    #   url: /schedule/
+    #   weight: 30
+    - identifier: Contact
+      name: contact
+      url: /contact/
+      weight: 40

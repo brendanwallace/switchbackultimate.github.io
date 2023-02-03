@@ -1,0 +1,40 @@
+{{ define "main" }}
+<!-- Post Content -->
+
+    <div class="container text-center">
+
+            
+                {{ .Content }}
+
+                <!--This is a the custom People index page-->
+                <!-- could do [[ if eq .Params.Status "grad" ]], etc to order them -->
+
+        {{ if .Params.showpreseason }}
+        <h3>Preseason Leadership</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "preseason" }}
+              	{{ partial "personcard.html" . }}
+              {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ if .Params.showroster }}
+        <h3>Roster</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "roster" }}
+                {{ partial "personcard.html" . }}
+              {{ end }}
+            {{ end }}
+    	</div>
+        {{ end }}
+
+        <div class="text-center">
+            <a href="{{ .Parent.RelPermalink }}">see all rosters</a>
+        </div>
+
+    </div>
+
+{{ end }}

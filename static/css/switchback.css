@@ -1,0 +1,8 @@
+a{
+    color:#0085a1
+}
+
+img.roster-image {
+  object-fit: cover;
+  aspect-ratio: 1/1;
+}
