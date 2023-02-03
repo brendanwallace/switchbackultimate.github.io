@@ -1,6 +1,10 @@
 ---
 title: "2022 Roster"
+slug: "2022"
 layout: roster
+showroster: true
+showcaptains: true
+showpractice: true
 draft: false
 ---
 
@@ -33,16 +37,7 @@ draft: false
 
 #### Practice Players:
 
-- Alexi Ebersole*
-- Carson Boggess*
-- Carter Schafer*
-- Ciaran Pratley*
-- Colman Bashore*
-- Jojah McMonigal*
-- Kushal Khangaonkar*
-- Max Larkin*
-- Max Rogers*
-- Toby Wepman*
+
 
 #### Coaching & Strategy:
 

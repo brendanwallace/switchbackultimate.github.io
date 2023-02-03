@@ -4,7 +4,6 @@
     <div class="container text-center">
 
             
-                {{ .Content }}
 
                 <!--This is a the custom People index page-->
                 <!-- could do [[ if eq .Params.Status "grad" ]], etc to order them -->
@@ -14,7 +13,23 @@
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "preseason" }}
-              	{{ partial "personcard.html" . }}
+                <div class="col-sm-4 col-md-3 text-center">
+                 {{ partial "personcard.html" . }}
+                </div>
+              {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+
+
+        {{ if .Params.showcaptains }}
+        <h3>Captains</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "captain" }}
+                <div class="col-sm-4 col-md-3 text-center">
+                 {{ partial "personcard.html" . }}
+                </div>
               {{ end }}
             {{ end }}
         </div>
@@ -25,10 +40,28 @@
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "roster" }}
+              <div class="col-sm-4 col-md-3 text-center">
+
                 {{ partial "personcard.html" . }}
+            </div>
               {{ end }}
             {{ end }}
     	</div>
+        {{ end }}
+
+
+        {{ if .Params.showpractice }}
+        <h3>Practice Players</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "practice" }}
+              <div class="col-sm-4 col-md-3 text-center">
+
+                {{ partial "personcard.html" . }}
+            </div>
+              {{ end }}
+            {{ end }}
+        </div>
         {{ end }}
 
         <div class="text-center">

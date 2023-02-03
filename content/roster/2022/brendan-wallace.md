@@ -1,10 +1,8 @@
 ---
 name: "Brendan Wallace"
 slug: "brendan-wallace"
-picture: "brendan-wallace.jpg"
-status: preseason
+picture:
 layout: people
+status: "captain"
 ---
 
-
-This is Brendan's bio
