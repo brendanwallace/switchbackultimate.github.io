@@ -1,8 +1,8 @@
 ---
 name: "{{ replace .Name "-" " " | title }}"
 slug: "{{ .Name }}"
-picture: "{{ .Name }}.jpg"
+picture:
 layout: people
-status: "?"
+status: "practice"
 ---
 
