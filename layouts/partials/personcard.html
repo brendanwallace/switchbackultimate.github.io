@@ -1,7 +1,18 @@
-<div class="col-sm-4 col-md-3 text-center" style="padding-top: 1em; padding-left: 3em; padding-right: 3em;">
+
+
+
+{{ $img := .Params.Picture }}
+{{ if eq $img nil }}
+	{{ $img = "missing.jpg" }}
+{{ end }}
+{{ if eq $img "" }}
+	{{ $img = "missing.jpg" }}
+{{ end }}
+
+
 <div class="thumbnail" style=" border: none">
-	<img class="roster-image" src="{{.Params.Picture }}" style="width: 350px; border-radius: 50%;">
-	<a href="{{ .File.BaseFileName }}">
+	<img class="roster-image" src="/img/people/{{ $img }}" style="width: 350px; border-radius: 50%;">
+	<a href="{{ .RelPermalink }}">
 	<div class="caption">
 		<h4 class="subheading" style="margin: 20px">{{ .Params.Name }}</h4>
 		<!-- <p>{{ .Summary }}</p> -->
@@ -9,4 +20,4 @@
 	</a>
 	<!-- this is a person card -->
 </div>
-</div>
+
