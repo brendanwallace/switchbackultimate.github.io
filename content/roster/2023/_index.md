@@ -1,7 +1,10 @@
 ---
 title: "2023 Roster"
-layout: rosterindex
+layout: roster
 draft: false
+showpreseason: true
+showroster: true
+showpractice: false
 ---
 
 

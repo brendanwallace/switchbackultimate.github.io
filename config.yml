@@ -8,6 +8,10 @@ params:
   header_image: img/team_picture_blur1.jpg
   custom_css:
     - /css/switchback.css
+  social:
+    email: "switchbackultimate@gmail.com"
+    twitter: "https://twitter.com/switchback_ulti"
+    instagram: "https://www.instagram.com/switchback_ulti/"
 
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: "2022 Roster"
-layout: rosterindex
+layout: roster
 draft: false
 ---
 
