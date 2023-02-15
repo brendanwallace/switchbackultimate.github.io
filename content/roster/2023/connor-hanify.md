@@ -6,5 +6,3 @@ layout: people
 status: preseason
 ---
 
-
-This is Connor's bio
