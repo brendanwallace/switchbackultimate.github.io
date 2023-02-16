@@ -9,7 +9,7 @@ status: preseason
 Max Bommarito is from Michigan. He's from Michigan so much that he has a tattoo
 of a burning couch on his leg (he has told us that this is a Michigan thing).
 He's a big fan of a twitter account that posts different types of maps of
-Lancaster, Michigan. He used to play for either Hybrid, or High Five, or
+Lansing, Michigan. He used to play for either Hybrid, or High Five, or
 possibly practice for both of them. I'm pretty sure it was High Five but Joe
 thinks Hybrid so I now think both is possible (but actually now that Joe's not
 looking, it's definitely High Five).
