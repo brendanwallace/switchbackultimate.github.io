@@ -3,8 +3,7 @@ title: "About Us"
 draft: false
 ---
 
-Seattle Switchback is a men's team focused on finding positive
-team culture in a highly competitive environment.
+## Values
 
 We've talked a lot about how to diffuse the dynamics that can make men's
 division experiences feel toxic as well as what we actively want in a team and
@@ -33,4 +32,28 @@ We learn by doing, prioritize touches and time spent moving, commit to
 making the most of practice, and attend a lot of tournaments. Our goal
 celebrations border on the absurd.
 
-Come climb the mountain with us.
+
+## History
+
+
+Switchback was founded in 2022 by Connor Hannify, Camen Piho, Adam Fischette,
+and Brendan Wallace.
+
+The name Switchback is a reference to the natural
+beauty of the pacific northwest and the trails that help make it accessible.
+And it's a metaphor: switchbacks are a way to
+make it up a mountain by taking a longer path with lots of turns and incremental
+progress; they help accomplish something hard by breaking it into pieces; they
+work only if you're open to going sideways to get forward.
+
+Similarly, building a cohesive team and community that navigates
+the conflicts of a competitive environment is hard,
+it takes moving sideways to get forward and breaking challenges down
+to manageable pieces.
+We wanted to acknowledge that difficulty, and how we want to take a different
+approach to what we've seen and experienced. A different path. A path that starts
+at the base of a steep mountain, that curves and winds and bends but ultimately
+heads high, high, high.
+
+
+Come climb that mountain with us.
