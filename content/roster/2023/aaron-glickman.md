@@ -1,7 +1,7 @@
 ---
 name: "Aaron Glickman"
 slug: "aaron-glickman"
-picture: 
+picture: "aaron-glickman.jpg"
 layout: people
 status: preseason
 draft: false
