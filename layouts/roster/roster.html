@@ -13,7 +13,7 @@
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "preseason" }}
-                <div class="col-sm-4 col-md-3 text-center">
+                <div class="col-xs-6 col-sm-3 col-md-2 text-center">
                  {{ partial "personcard.html" . }}
                 </div>
               {{ end }}
@@ -27,7 +27,7 @@
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "captain" }}
-                <div class="col-sm-4 col-md-3 text-center">
+                <div class="col-xs-6 col-sm-3 col-md-2 text-center">
                  {{ partial "personcard.html" . }}
                 </div>
               {{ end }}
@@ -40,7 +40,7 @@
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "roster" }}
-              <div class="col-sm-4 col-md-3 text-center">
+              <div class="col-xs-6 col-sm-3 col-md-2 text-center">
 
                 {{ partial "personcard.html" . }}
             </div>
@@ -55,7 +55,7 @@
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "practice" }}
-              <div class="col-sm-4 col-md-3 text-center">
+              <div class="col-xs-6 col-sm-3 col-md-2 text-center">
 
                 {{ partial "personcard.html" . }}
             </div>
