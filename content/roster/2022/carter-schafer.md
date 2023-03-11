@@ -1,7 +1,7 @@
 ---
 name: "Carter Schafer"
 slug: "carter-schafer"
-picture:
+picture: "carter-schafer.jpg"
 layout: people
 status: "practice"
 ---
