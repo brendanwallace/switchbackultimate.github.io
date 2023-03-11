@@ -1,7 +1,7 @@
 ---
 name: "Alton Olson"
 slug: "alton-olson"
-picture:
+picture: "alton-olsen.jpeg"
 layout: people
 status: "roster"
 ---
