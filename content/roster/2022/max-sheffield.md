@@ -1,7 +1,7 @@
 ---
 name: "Max Sheffield"
 slug: "max-sheffield"
-picture:
+picture: "max-sheffield.jpeg"
 layout: people
 status: "roster"
 ---

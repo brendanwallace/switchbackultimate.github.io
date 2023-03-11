@@ -1,7 +1,7 @@
 ---
 name: "Jack Landrigan"
 slug: "jack-landrigan"
-picture:
+picture: "jack-landrigan.jpg"
 layout: people
 status: "roster"
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Camen Piho"
 slug: "camen-piho"
-picture:
+picture: "camen-piho.jpeg"
 layout: people
 status: "roster"
 ---
