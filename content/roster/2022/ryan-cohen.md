@@ -1,7 +1,7 @@
 ---
 name: "Ryan Cohen"
 slug: "ryan-cohen"
-picture:
+picture: "ryan-cohen.jpeg"
 layout: people
 status: "roster"
 ---
