@@ -1,7 +1,7 @@
 ---
 name: "Liam Coyle"
 slug: "liam-coyle"
-picture:
+picture: "liam-coyle.jpeg"
 layout: people
 status: "roster"
 ---
