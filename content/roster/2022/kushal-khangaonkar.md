@@ -1,7 +1,7 @@
 ---
 name: "Kushal Khangaonkar"
 slug: "kushal-khangaonkar"
-picture:
+picture: "kushal-khangaonkar.jpeg"
 layout: people
 status: "practice"
 ---
