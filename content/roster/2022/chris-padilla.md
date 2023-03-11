@@ -1,7 +1,7 @@
 ---
 name: "Chris Padilla"
 slug: "chris-padilla"
-picture:
+picture: "chris-padilla.jpeg"
 layout: people
 status: "roster"
 ---
