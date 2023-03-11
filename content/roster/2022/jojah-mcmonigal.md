@@ -1,7 +1,7 @@
 ---
 name: "Jojah Mcmonigal"
 slug: "jojah-mcmonigal"
-picture:
+picture: "jojah-mcmonigal.jpg"
 layout: people
 status: "practice"
 ---
