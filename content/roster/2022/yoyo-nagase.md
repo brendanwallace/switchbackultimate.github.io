@@ -1,7 +1,7 @@
 ---
 name: "Yoyo Nagase"
 slug: "yoyo-nagase"
-picture:
+picture: "yoyo-nagase.jpeg"
 layout: people
 status: "roster"
 ---
