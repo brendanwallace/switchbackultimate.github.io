@@ -1,7 +1,7 @@
 ---
 name: "Sam Thompson"
 slug: "sam-thompson"
-picture:
+picture: "phillip-korolog.jpg"
 layout: people
 status: "roster"
 ---
