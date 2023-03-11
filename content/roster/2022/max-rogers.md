@@ -1,7 +1,7 @@
 ---
 name: "Max Rogers"
 slug: "max-rogers"
-picture:
+picture: "max-rogers.jpeg"
 layout: people
 status: "practice"
 ---
