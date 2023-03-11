@@ -1,7 +1,7 @@
 ---
 name: "Colman Bashore"
 slug: "colman-bashore"
-picture:
+picture: "colman-bashore.jpeg"
 layout: people
 status: "practice"
 ---
