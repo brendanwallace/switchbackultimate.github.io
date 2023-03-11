@@ -1,7 +1,7 @@
 ---
 name: "Carson Boggess"
 slug: "carson-boggess"
-picture:
+picture: "carson-boggess.jpg"
 layout: people
 status: "practice"
 ---
