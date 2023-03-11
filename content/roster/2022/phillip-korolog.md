@@ -1,7 +1,7 @@
 ---
 name: "Phillip Korolog"
 slug: "phillip-korolog"
-picture:
+picture: "phillip-korolog.jpg"
 layout: people
 status: "roster"
 ---
