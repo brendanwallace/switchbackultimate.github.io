@@ -1,7 +1,7 @@
 ---
 name: "Mike Fielden"
 slug: "mike-fielden"
-picture:
+picture: "mike-fielden.jpeg"
 layout: people
 status: "roster"
 ---
