@@ -3,8 +3,11 @@ title: "Open Scrimmages"
 draft: false
 ---
 
+## Come scrim with us
+
 Periodically we host scrimmages
 for interested players to come get reps with players on our team.
+
 
 Follow this link and then click "join group" at the top to receive emails about where
 and when these are happening: [https://groups.google.com/g/switchback-scrims/](https://groups.google.com/g/switchback-scrims/)

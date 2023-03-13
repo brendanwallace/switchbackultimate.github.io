@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 draft: false
+layout: singleimageleft
+image: "wildfire.gif"
 ---
 
 Drop us a line at

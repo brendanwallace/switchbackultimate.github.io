@@ -1,6 +1,10 @@
 ---
 title: Tryouts 2023
+layout: singleimageright
+image: "thats_my_roommate.jpg"
 ---
+
+## Join the trail
 
 Fill out our [interest form](https://forms.gle/mXe2dbm9eD8o33kL7) for the 2023 season.
 
