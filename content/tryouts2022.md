@@ -1,8 +1,6 @@
 ---
 title: "tryouts 2022"
 draft: true
-layout: singleimageright
-image: "thats_my_roommate.jpg"
 ---
 
 We'll have two open tryouts:

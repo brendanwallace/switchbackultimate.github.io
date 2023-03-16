@@ -9,7 +9,7 @@ image: "thats_my_roommate.jpg"
 Fill out our [interest form](https://forms.gle/mXe2dbm9eD8o33kL7) for the 2023 season.
 
 
-Expect things to get rolling in March or April.
+Expect things to get rolling in April.
 
 Assuming we stick with the plan from last year, we'll have two tryout windows:
 one starting in late April/early May for folks already in Seattle;

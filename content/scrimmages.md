@@ -13,4 +13,4 @@ Follow this link and then click "join group" at the top to receive emails about 
 and when these are happening: [https://groups.google.com/g/switchback-scrims/](https://groups.google.com/g/switchback-scrims/)
 
 Scrimmages are on hold since we are gearing up for the 2023 season.
-We hope to have some postseason scrimmages coming up this spring, stay posted!
+We hope to have some scrimmages coming up this spring, stay posted!
