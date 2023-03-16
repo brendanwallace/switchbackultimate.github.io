@@ -7,4 +7,4 @@ status: preseason
 draft: false
 ---
 
-This is Glick.
+This is Glick. Glick's bio is edited in this bio.
