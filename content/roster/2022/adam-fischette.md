@@ -1,7 +1,7 @@
 ---
 name: "Adam Fischette"
 slug: "adam-fischette"
-picture:
+picture: "adam-fischette.jpg"
 layout: people
 status: "captain"
 ---
