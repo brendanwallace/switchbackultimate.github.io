@@ -1,7 +1,7 @@
 ---
 name: "Brendan Wallace"
 slug: "brendan-wallace"
-picture:
+picture: "brendan-wallace.jpg"
 layout: people
 status: "captain"
 ---

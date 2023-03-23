@@ -1,7 +1,7 @@
 ---
 name: "Connor Hanify"
 slug: "connor-hanify"
-picture:
+picture: "connor-hanify.jpg"
 layout: people
 status: "captain"
 ---

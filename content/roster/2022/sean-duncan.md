@@ -1,7 +1,7 @@
 ---
 name: "Sean Duncan"
 slug: "sean-duncan"
-picture:
+picture: "sean-duncan.jpg"
 layout: people
 status: "roster"
 ---
