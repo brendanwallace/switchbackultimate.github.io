@@ -1,8 +1,7 @@
 ---
 name: "Alexi Ebersole"
 slug: "alexi-ebersole"
-picture:
+picture: "alexi-ebersole.jpg"
 layout: people
 status: "practice"
 ---
-
