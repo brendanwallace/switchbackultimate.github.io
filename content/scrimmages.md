@@ -1,6 +1,6 @@
 ---
 title: "Open Scrimmages"
-draft: false
+draft: true
 ---
 
 ## Come scrim with us
