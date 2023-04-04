@@ -1,8 +1,7 @@
 ---
 name: "Max Bommarito"
 slug: "max-bommarito"
-picture:
+picture: "max-bommarito.jpg"
 layout: people
 status: "roster"
 ---
-
