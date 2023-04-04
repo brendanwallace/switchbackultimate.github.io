@@ -1,8 +1,7 @@
 ---
 name: "Max Larkin"
 slug: "max-larkin"
-picture:
+picture: "max-larkin.jpg"
 layout: people
 status: "practice"
 ---
-

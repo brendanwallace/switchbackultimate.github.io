@@ -1,8 +1,7 @@
 ---
 name: "Toby Wepman"
 slug: "toby-wepman"
-picture:
+picture: "toby-wepman.jpg"
 layout: people
 status: "practice"
 ---
-
