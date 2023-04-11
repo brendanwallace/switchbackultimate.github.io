@@ -6,25 +6,17 @@ image: "thats_my_roommate.jpg"
 
 ## Join the trail
 
-Fill out our [interest form](https://forms.gle/mXe2dbm9eD8o33kL7) for the 2023 season.
+Tryouts are set! Fill out our [form](https://forms.gle/BNT7k4RqhSHUEFRr9) for the 2023 season.
+
+Two open tryouts:
+
+1. Sunday May 21st, 2-5pm at Magnuson #5 (preferred for local players)
+
+2. Monday June 5th, 6-9pm at QA Bowl Playfield
+
+After each tryout we'll invite some players to team practices over the next
+two weeks before offering a number of spots on the team.
 
 
-Our first (unofficial) tryout event is here! A 4v4 hat tournament co-hosted
-with women's team Underground on April 30th. [Sign up here.](http://bit.ly/4v4april30)
-
-After that, we'll have two tryout windows:
-One starting in late April/early May for folks already in Seattle;
-and another one starting towards the end of May – primarily for folks
-moving here or players in college who won't get back until later in the spring.
-We're even aware some schools let out in June! Don't worry, we'll work with you
-to make sure we can give everyone interested in the team a good look.
-
-We'll be returning the core of our team from 2022 for the upcoming season.
-We'll likely have 5-10 spots for new players on the roster and a handful of
-practice player spots.
-
-Fill out our interest form, and we'll reach out when our full tryout form
-goes live.
-
-If you're new to Seattle and looking to get the lay of the land, we're happy
-to help you there too.
+Also consider attending our [4v4 tournament on April 30th](/4v4april30).
+It's not officially a tryout, but we'd love to have you out and get to know you!
