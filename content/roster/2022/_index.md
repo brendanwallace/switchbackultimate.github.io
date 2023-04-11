@@ -5,6 +5,7 @@ layout: roster
 showroster: true
 showcaptains: true
 showpractice: true
+showmanager: true
 draft: false
 ---
 
