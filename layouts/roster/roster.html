@@ -35,6 +35,21 @@
         </div>
         {{ end }}
 
+        
+        {{ if .Params.showmanager }}
+        <h3>Team Manager</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "manager" }}
+              <div class="col-xs-6 col-sm-3 col-md-2 text-center">
+
+                {{ partial "personcard.html" . }}
+            </div>
+              {{ end }}
+            {{ end }}
+      </div>
+        {{ end }}
+
         {{ if .Params.showroster }}
         <h3>Roster</h3>
         <div class="row">
@@ -63,6 +78,8 @@
             {{ end }}
         </div>
         {{ end }}
+
+
 
         <div class="text-center">
             <a href="{{ .Parent.RelPermalink }}">see all rosters</a>
