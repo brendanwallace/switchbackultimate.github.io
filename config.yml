@@ -21,9 +21,6 @@ menu:
     - name: tryouts
       url: /tryouts2023/
       weight: 15
-    - name: 4v4
-      url: /4v4april30/
-      weight: 15
     - identifier: Roster
       name: roster
       url: /roster/2023

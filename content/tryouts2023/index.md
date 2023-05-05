@@ -18,5 +18,5 @@ After each tryout we'll invite some players to team practices over the next
 two weeks before offering a number of spots on the team.
 
 
-Also consider attending our [4v4 tournament on April 30th](/4v4april30).
-It's not officially a tryout, but we'd love to have you out and get to know you!
+If you were able to make our 4v4 tournament on April 30th thanks for coming.
+We're excited to see you at our upcoming tryouts!

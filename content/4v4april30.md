@@ -1,6 +1,6 @@
 ---
 title: "4v4 April 30th"
-draft: false
+draft: true
 ---
 
 [Sign up for our 4v4 tournament!](http://bit.ly/4v4april30)
