@@ -10,7 +10,7 @@ Tryouts are set! Fill out our [form](https://forms.gle/BNT7k4RqhSHUEFRr9) for th
 
 Two open tryouts:
 
-1. Sunday May 21st, 2-5pm at Magnuson #5 (preferred for local players)
+1. Sunday May 21st, 4-7pm at Franklin HS (preferred for local players)
 
 2. Monday June 5th, 6-9pm at QA Bowl Playfield
 
