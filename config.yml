@@ -25,10 +25,10 @@ menu:
       name: roster
       url: /roster/2023
       weight: 20
-    # - identifier: Schedule
-    #   name: schedule
-    #   url: /schedule/
-    #   weight: 30
+    - identifier: Schedule
+      name: schedule
+      url: /schedule/2023
+      weight: 30
     - identifier: Contact
       name: contact
       url: /contact/
