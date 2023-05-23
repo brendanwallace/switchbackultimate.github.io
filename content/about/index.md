@@ -57,3 +57,13 @@ heads high, high, high.
 
 
 Come climb that mountain with us.
+
+## Endorsements
+
+- "Bordering on absurdity" - Matt Rehder (Seattle sectionals, 2022)
+- "They're so wholesome ... that team might be one of the best examples I've
+ever seen of really healthy masculine friendship" - Celeste
+- "They are solid and have decent talent" - Reddit user Jaysaawn
+- "Was \[Leo Sovell-Fernandez\] on Dragon Thrust again this year?" "I don't think he was.
+Maybe he didn't play club this year." - Ultiworld
+
