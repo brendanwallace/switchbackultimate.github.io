@@ -21,8 +21,21 @@
         </div>
         {{ end }}
 
+        {{ if .Params.showcoach }}
+        <h3>Coach</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "coach" }}
+                <div class="col-xs-6 col-sm-3 col-md-2 text-center">
+                 {{ partial "personcard.html" . }}
+                </div>
+              {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
 
-        {{ if .Params.showcaptains }}
+
+        {{ if .Params.showcaptain }}
         <h3>Captains</h3>
         <div class="row">
             {{ range .Pages }}

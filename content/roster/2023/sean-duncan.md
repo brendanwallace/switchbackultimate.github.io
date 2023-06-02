@@ -3,7 +3,7 @@ name: "Sean Duncan"
 slug: "sean-duncan"
 picture: "sean-duncan.jpg"
 layout: people
-status: preseason
+status: roster
 ---
 
 Sean Duncan is from New Jersey. He went to college in either Deleware or

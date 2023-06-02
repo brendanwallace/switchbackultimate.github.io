@@ -3,7 +3,7 @@ name: "Max Bommarito"
 slug: "max-bommarito"
 picture: "max-bommarito.jpg"
 layout: people
-status: preseason
+status: roster
 ---
 
 Max Bommarito is from Michigan. He's from Michigan so much that he has a tattoo
