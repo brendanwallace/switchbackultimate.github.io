@@ -3,11 +3,11 @@ name: "Sean Duncan"
 slug: "sean-duncan"
 picture: "sean-duncan.jpg"
 layout: people
-status: preseason
+status: roster
 ---
 
 Sean Duncan is from New Jersey. He went to college in either Deleware or
-Pittsburgh. Or maybe he's from Deleware or Pittsburgh but went to school in 
+Pittsburgh. Or maybe he's from Deleware or Pittsburgh but went to school in
 New Jersey? But he also went to college in Oregon. Has to be Oregon State, because
 we make lots of jokes about beavers (the Oregon State mascott) about him. Not
 really sure what that's about. Maybe a grad degree or something.

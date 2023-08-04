@@ -3,7 +3,7 @@ name: "Adam Fischette"
 slug: "adam-fischette"
 picture: "adam-fischette.jpg"
 layout: people
-status: preseason
+status: captain
 ---
 
 Adam "Fisch" Fischette is from New Jersey, and you can definitely tell.

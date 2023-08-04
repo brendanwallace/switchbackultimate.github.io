@@ -3,7 +3,7 @@ name: "Aaron Glickman"
 slug: "aaron-glickman"
 picture: "aaron-glickman.jpg"
 layout: people
-status: preseason
+status: roster
 draft: false
 ---
 
@@ -36,5 +36,3 @@ transition lens glasses which turned dark at hilarious and inappropriate times.
 and for all that roundabouts > stoplights.
 - Glick plays as the Scoundrel class in Gloomhaven where famously he deals
 almost no damage to his enemies.
-
-
