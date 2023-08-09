@@ -9,13 +9,3 @@ showcoach: true
 showroster: true
 showpractice: true
 ---
-
-#### Captain:
-
-#### Roster:
-
-
-#### Practice Players:
-
-
-#### Coach:
