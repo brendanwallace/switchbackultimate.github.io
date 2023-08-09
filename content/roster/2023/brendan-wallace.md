@@ -2,7 +2,7 @@
 name: "Brendan Wallace"
 slug: "brendan-wallace"
 picture: "brendan-wallace.jpg"
-status: preseason
+status: captain
 layout: people
 ---
 
