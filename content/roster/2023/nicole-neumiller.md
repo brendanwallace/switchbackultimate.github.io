@@ -1,7 +1,7 @@
 ---
 Name: "Nicole Neumiller"
 Slug: "Nicole-Neumiller"
-picture: 
+picture: "missing.jpg"
 status: "coach"
 layout: "people"
 ---

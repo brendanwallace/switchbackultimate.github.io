@@ -1,7 +1,7 @@
 ---
 name: "{{ replace .Name "-" " " | title }}"
 slug: "{{ .Name }}"
-picture:
+picture: "missing.jpg"
 layout: people
 status: "practice"
 ---
