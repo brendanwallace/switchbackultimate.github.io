@@ -1,17 +1,16 @@
 
 
-
-{{ $img := .Params.Picture }}
-{{ if eq $img nil }}
-	{{ $img = "missing.jpg" }}
-{{ end }}
-{{ if eq $img "" }}
-	{{ $img = "missing.jpg" }}
+{{ $img := printf "%s%s" (lower .Params.Slug) ".jpg" }}
+{{ if (isset .Params "picture") }}
+	{{ $img = .Params.Picture }}
+	{{ if eq $img "" }}
+		{{ $img = "missing.jpg" }}
+	{{ end }}
 {{ end }}
 
 
 <div class="thumbnail" style=" border: none">
-	<img class="roster-image" src="/img/roster/{{ .Parent.Slug }}/{{ $img }}">
+	<img class="roster-image" src="/img/roster/{{ .Parent.Slug }}/{{$img}}">
 	<a href="{{ .RelPermalink }}">
 	<div class="caption">
 		<h4 class="subheading" style="min-height: 50px">{{ .Params.Name }}</h4>
