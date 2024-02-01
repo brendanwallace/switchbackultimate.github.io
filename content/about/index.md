@@ -37,7 +37,7 @@ celebrations border on the absurd.
 
 
 Switchback was founded in 2022 by Connor Hannify, Camen Piho, Adam Fischette,
-and Brendan Wallace.
+Brendan Wallace and Max Bommarito.
 
 The name Switchback is a reference to the natural
 beauty of the pacific northwest and the trails that help make it accessible.
