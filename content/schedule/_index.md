@@ -1,5 +1,5 @@
 ---
-title: Past Schedules
+title: Schedules
 draft: false
 layout: allschedules
 ---
