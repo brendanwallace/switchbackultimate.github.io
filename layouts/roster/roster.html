@@ -8,32 +8,33 @@
                 <!--This is a the custom People index page-->
                 <!-- could do [[ if eq .Params.Status "grad" ]], etc to order them -->
 
-        {{ if .Params.showpreseason }}
-        <h3>Preseason Leadership</h3>
-        <div class="row">
-            {{ range .Pages }}
-              {{ if eq .Params.Status "preseason" }}
-                <div class="col-xs-6 col-sm-3 col-md-2 text-center">
-                 {{ partial "personcard.html" . }}
-                </div>
-              {{ end }}
-            {{ end }}
-        </div>
-        {{ end }}
-
 
         {{ if .Params.showcaptains }}
         <h3>Captains</h3>
         <div class="row">
             {{ range .Pages }}
               {{ if eq .Params.Status "captain" }}
-                <div class="col-xs-6 col-sm-3 col-md-2 text-center">
+                <div class="col-xs-6 col-sm-3 col-md-3 text-center">
                  {{ partial "personcard.html" . }}
                 </div>
               {{ end }}
             {{ end }}
         </div>
         {{ end }}
+
+        {{ if .Params.showpreseason }}
+        <h3>Preseason Leadership</h3>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if eq .Params.Status "preseason" }}
+                <div class="col-xs-6 col-sm-3 col-md-3 text-center">
+                 {{ partial "personcard.html" . }}
+                </div>
+              {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+
 
 
         {{ if .Params.showcoach }}
