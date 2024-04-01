@@ -1,20 +1,669 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>quick start</title>
-    <link>http://example.org/</link>
-    <description>Recent content on quick start</description>
+    <title>Switchback Ultimate</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Switchback Ultimate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 09:23:14 -0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 16 Apr 2022 09:23:14 -0700</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>This is my first post for the hugo quickstart.</description>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/aaron-glickman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/aaron-glickman/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/adam-fischette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/adam-fischette/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/alex-semaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/alex-semaca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/alexi-ebersole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/alexi-ebersole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/alton-olson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/alton-olson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/bobby-eleveld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/bobby-eleveld/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/brendan-wallace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/brendan-wallace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/camen-piho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/camen-piho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/carson-boggess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/carson-boggess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/carter-schafer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/carter-schafer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/chris-padilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/chris-padilla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/ciaran-pratley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/ciaran-pratley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/colman-bashore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/colman-bashore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/connor-hanify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/connor-hanify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/erik-johansson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/erik-johansson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/jack-landrigan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/jack-landrigan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/jojah-mcmonigal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/jojah-mcmonigal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/joseph-bowley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/joseph-bowley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/justin-washington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/justin-washington/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/kushal-khangaonkar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/kushal-khangaonkar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/leo-sovell-fernandez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/leo-sovell-fernandez/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/liam-coyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/liam-coyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/lukie-crowley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/lukie-crowley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/max-bommarito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/max-bommarito/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/max-larkin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/max-larkin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/max-rogers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/max-rogers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/max-sheffield/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/max-sheffield/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/mike-fielden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/mike-fielden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/molly-gallagher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/molly-gallagher/</guid>
+      <description>In 2022 Molly was unofficial official team manager and ran our twitter page tweeting things such as:&#xA;this guy just beat dylan freechild deep guys pic.twitter.com/ug6WMdkqpu&#xA;&amp;mdash; Switchback Ultimate (@Switchback_Ulti) September 11, 2022 and:&#xA;bestie jack caught a huge fish wow big splash someone come mop this up 8-10 #lit #slay #bussin #gonefishing&#xA;&amp;mdash; Switchback Ultimate (@Switchback_Ulti) September 11, 2022 Molly is widely credited with popularizing use of terms such as &amp;ldquo;besties&amp;rdquo;, &amp;ldquo;girl boss&amp;rdquo;, and &amp;ldquo;that&amp;rsquo;s my roommate&amp;rdquo; on Switchback.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/phillip-korolog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/phillip-korolog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/ryan-cohen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/ryan-cohen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/sam-thompson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/sam-thompson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/sean-duncan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/sean-duncan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/toby-wepman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/toby-wepman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2022/yoyo-nagase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2022/yoyo-nagase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/aaron-glickman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/aaron-glickman/</guid>
+      <description>&amp;ldquo;This is Aaron Glickman. He is one of the most undervalued players in frisbee. His defect is that he&amp;rsquo;s afraid of being nude. Nobody in the pro series cares about him. This guy should cost 3 million dollars a year. We can get him for a 6 pack of cider.&amp;rdquo;&#xA;We drafted Aaron &amp;ldquo;Glick&amp;rdquo; Glickman straight out of the minor leagues in 2022, now look at him: he&amp;rsquo;s climbed the ladder all the way up to preseason leadership.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/adam-fischette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/adam-fischette/</guid>
+      <description>Adam &amp;ldquo;Fisch&amp;rdquo; Fischette is from New Jersey, and you can definitely tell. He also claims to be from New York.&#xA;Fisch moved to Seattle to go to UW. He really likes math. He loves comedy. He loves to laugh!&#xA;&amp;ldquo;I love kissing pigs on the lips,&amp;rdquo; Fisch loves to say. &amp;ldquo;I love their rough tongues. I want their rough tongues in my mouth.&amp;rdquo;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/alex-semaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/alex-semaca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/andy-stanciu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/andy-stanciu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/arthur-abbate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/arthur-abbate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/bobby-eleveld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/bobby-eleveld/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/brendan-bogel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/brendan-bogel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/brendan-wallace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/brendan-wallace/</guid>
+      <description>Brendan &amp;ldquo;Bren-Dog&amp;rdquo; Wallace is one of the founding members and dreamers behind Switchback (and still in my phone as &amp;ldquo;Brendan Frisbee&amp;rdquo;). When Switchback was just a groupme with 3 people named &amp;ldquo;Seattle Playground&amp;rdquo; he fended off hundreds of folks wanting to change the name to &amp;ldquo;Tacoma Frisbee Friends&amp;rdquo; - No easy task. As captain of the 2022 team, Brendan introduced the world to Woodley-Mode.&#xA;Brendan is a big proponent of car free transportation and would love to talk about how we can build cities that do not cater to car culture.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/chris-mark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/chris-mark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/chris-nicol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/chris-nicol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/ciaran-pratley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/ciaran-pratley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/connor-hanify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/connor-hanify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/connor-babcock-oneill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/connor-babcock-oneill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/dominic-chiodi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/dominic-chiodi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/erik-johansson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/erik-johansson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/fin-fuhrmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/fin-fuhrmann/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/jack-helfrich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/jack-helfrich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/jack-landrigan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/jack-landrigan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/jacob-dreves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/jacob-dreves/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/jacob-keister/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/jacob-keister/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/jordan-lazer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/jordan-lazer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/joseph-bowley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/joseph-bowley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/lukie-crowley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/lukie-crowley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/martin-horst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/martin-horst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/max-bommarito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/max-bommarito/</guid>
+      <description>Max Bommarito is from Michigan. He&amp;rsquo;s from Michigan so much that he has a tattoo of a burning couch on his leg (he has told us that this is a Michigan thing). He&amp;rsquo;s a big fan of a twitter account that posts different types of maps of Lansing, Michigan. He used to play for either Hybrid, or High Five, or possibly practice for both of them. I&amp;rsquo;m pretty sure it was High Five but Joe thinks Hybrid so I now think both is possible (but actually now that Joe&amp;rsquo;s not looking, it&amp;rsquo;s definitely High Five).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/max-rogers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/max-rogers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/max-sheffield/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/max-sheffield/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/nicole-neumiller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/nicole-neumiller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/nolan-stoppel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/nolan-stoppel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/orlando-impas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/orlando-impas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/phil-korolog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/phil-korolog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/rohin-gast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/rohin-gast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/ryan-cohen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/ryan-cohen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/sahaj-olivar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/sahaj-olivar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/sam-hinson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/sam-hinson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/sam-thompson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/sam-thompson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/sean-duncan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/sean-duncan/</guid>
+      <description>Sean Duncan is from New Jersey. He went to college in either Deleware or Pittsburgh. Or maybe he&amp;rsquo;s from Deleware or Pittsburgh but went to school in New Jersey? But he also went to college in Oregon. Has to be Oregon State, because we make lots of jokes about beavers (the Oregon State mascott) about him. Not really sure what that&amp;rsquo;s about. Maybe a grad degree or something.&#xA;Sean used to play on Dark Star.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/shawn-cooper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/shawn-cooper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/souma-yabuki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/souma-yabuki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/steven-benaloh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/steven-benaloh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/zach-sadow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/zach-sadow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2023/zachary-fletcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2023/zachary-fletcher/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/alex-semaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/alex-semaca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/brendan-wallace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/brendan-wallace/</guid>
+      <description>Brendan &amp;ldquo;Bren-Dog&amp;rdquo; Wallace is one of the founding members and dreamers behind Switchback (and still in my phone as &amp;ldquo;Brendan Frisbee&amp;rdquo;). When Switchback was just a groupme with 3 people named &amp;ldquo;Seattle Playground&amp;rdquo; he fended off hundreds of folks wanting to change the name to &amp;ldquo;Tacoma Frisbee Friends&amp;rdquo; - No easy task. As captain of the 2022 team, Brendan introduced the world to Woodley-Mode.&#xA;Brendan is a big proponent of car free transportation and would love to talk about how we can build cities that do not cater to car culture.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/max-bommarito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/max-bommarito/</guid>
+      <description>Max Bommarito is from Michigan. He&amp;rsquo;s from Michigan so much that he has a tattoo of a burning couch on his leg (he has told us that this is a Michigan thing). He&amp;rsquo;s a big fan of a twitter account that posts different types of maps of Lansing, Michigan. He used to play for either Hybrid, or High Five, or possibly practice for both of them. I&amp;rsquo;m pretty sure it was High Five but Joe thinks Hybrid so I now think both is possible (but actually now that Joe&amp;rsquo;s not looking, it&amp;rsquo;s definitely High Five).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/mike-fielden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/mike-fielden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/nolan-stoppel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/nolan-stoppel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/phil-korolog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/phil-korolog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roster/2024/steven-benaloh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roster/2024/steven-benaloh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2022 schedule</title>
+      <link>http://localhost:1313/schedule/2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/schedule/2022/</guid>
+      <description>Weekly practice schedule: Thursday PM practice (2hr) Saturday AM practice (2hr) Pod workouts Tournaments: June: Summer Solstice (Eugene, OR) July: Select Flight Invite West (Temecula, CA) August: Ski Town Classic (Salt Lake City, UT) CBR (Lacey, WA) September: Sectionals (Burlington, WA) Regionals (Lacey, WA) </description>
+    </item>
+    <item>
+      <title>2023 schedule</title>
+      <link>http://localhost:1313/schedule/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/schedule/2023/</guid>
+      <description>This season we&amp;rsquo;ll attend 5 tournaments, hold 3 practice weekends, and have no obligations any other weekends.&#xA;A practice weekend is an intense &amp;ldquo;on&amp;rdquo; weekend with three practices. This imitates and prepares us for the physical demands of tournaments, and lets us have long continuous blocks of scrimmaging and practice to develop and improve.&#xA;A practice weekend looks like:&#xA;1st practice late Saturday AM (allows time for travel) break for lunch 2nd practice Saturday afternoon break (either stay on site or go home) 3rd practice early Sunday AM leave Sunday at/before noon The other 8 weekends of the summer are completely free of ultimate obligations.</description>
+    </item>
+    <item>
+      <title>2024 schedule</title>
+      <link>http://localhost:1313/schedule/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/schedule/2024/</guid>
+      <description>2024 Schedule Description We envision three phases to the season:&#xA;Phase I. Capitalize on initial excitement; make progress on team goals and learn systems This phase kicks off with a big practice weekend (PW1), the team attends Eugene Summer Solstice, possibly Pro Elite Challenge, and Select Flight Invite. We look to peak for a strong Select Flight Invite performance.&#xA;Weekly schedule for Phase 1:&#xA;Monday night practices (except after PWs and tournaments) Thursday night practices Phase II.</description>
+    </item>
+    <item>
+      <title>4v4 April 30th</title>
+      <link>http://localhost:1313/4v4april30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/4v4april30/</guid>
+      <description>Sign up for our 4v4 tournament! </description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Values We&amp;rsquo;ve talked a lot about how to diffuse the dynamics that can make men&amp;rsquo;s division experiences feel toxic as well as what we actively want in a team and agreed on a set of core values:&#xA;Growth We seek and accept feedback and criticism, we&amp;rsquo;re open to changing everything from throwing form to decision-making, and we want to grow as individual players.&#xA;Support Everyone is part of a community and valued as a complete human being beyond just what they can do on the field.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Drop us a line at switchbackultimate@gmail.com.</description>
+    </item>
+    <item>
+      <title>Open Scrimmages</title>
+      <link>http://localhost:1313/scrimmages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/scrimmages/</guid>
+      <description>Come scrim with us Periodically we host scrimmages for interested players to come get reps with players on our team.&#xA;Follow this link and then click &amp;ldquo;join group&amp;rdquo; at the top to receive emails about where and when these are happening: https://groups.google.com/g/switchback-scrims/&#xA;Scrimmages are on hold since we are gearing up for the 2023 season. We hope to have some scrimmages coming up this spring, stay posted!</description>
+    </item>
+    <item>
+      <title>the roommates</title>
+      <link>http://localhost:1313/secret/roommates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/secret/roommates/</guid>
+      <description>In 2022, three legendary besties lived together:&#xA;Jack Landrigan, Leo Sovell-Fernandez, and Molly Gallagher </description>
+    </item>
+    <item>
+      <title>Tryouts 2023</title>
+      <link>http://localhost:1313/tryouts/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tryouts/2023/</guid>
+      <description>Join the trail Tryouts are set! Fill out our form for the 2023 season.&#xA;Two open tryouts:&#xA;Sunday May 21st, 4-7pm at Franklin HS (preferred for local players)&#xA;Monday June 5th, 6-9pm at QA Bowl Playfield&#xA;After each tryout we&amp;rsquo;ll invite some players to team practices over the next two weeks before offering a number of spots on the team.&#xA;If you were able to make our 4v4 tournament on April 30th thanks for coming.</description>
+    </item>
+    <item>
+      <title>Tryouts 2024</title>
+      <link>http://localhost:1313/tryouts/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tryouts/2024/</guid>
+      <description>Future roommates We kick things off with our community 4v4 hat tournament on Sunday April 7th, Noon at Jefferson Playfield, cohosted with Underground. Sign up here!&#xA;Tryouts schedule:&#xA;Open tryout #1 Sunday May 12th 1-4pm Georgetown Playfield Open tryout #2 Sunday May 19th 2-5pm Genesee Park Closed tryout #1 Thursday May 23rd 6-9pm Hiawatha Playfield Closed tryout #2 Thursday May 30th 7-10pm Delridge Playfield We&amp;rsquo;ll release our tryout form when we get a little closer to these dates.</description>
+    </item>
   </channel>
 </rss>
