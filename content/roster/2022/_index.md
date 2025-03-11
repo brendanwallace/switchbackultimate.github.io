@@ -1,7 +1,7 @@
 ---
 title: "2022 Roster"
 slug: "2022"
-layout: roster
+layout: singleroster
 showroster: true
 showcaptains: true
 showpractice: true

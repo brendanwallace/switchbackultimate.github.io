@@ -182,32 +182,36 @@
   </url><url>
     <loc>http://localhost:1313/schedule/2024/</loc>
   </url><url>
+    <loc>http://localhost:1313/schedule/2025/</loc>
+  </url><url>
     <loc>http://localhost:1313/4v4april30/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roster/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/lore/</loc>
+  </url><url>
     <loc>http://localhost:1313/scrimmages/</loc>
   </url><url>
-    <loc>http://localhost:1313/schedule/</loc>
+    <loc>http://localhost:1313/roster/</loc>
   </url><url>
-    <loc>http://localhost:1313/secret/</loc>
+    <loc>http://localhost:1313/schedule/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/secret/roommates/</loc>
+    <loc>http://localhost:1313/lore/roommates/</loc>
   </url><url>
     <loc>http://localhost:1313/tryouts/</loc>
   </url><url>
     <loc>http://localhost:1313/tryouts/2023/</loc>
   </url><url>
     <loc>http://localhost:1313/tryouts/2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tryouts/2025/</loc>
   </url>
 </urlset>

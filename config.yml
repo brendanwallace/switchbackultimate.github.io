@@ -19,15 +19,15 @@ menu:
       url: /about/
       weight: 10
     - name: tryouts
-      url: /tryouts/2024
+      url: /tryouts/2025
       weight: 15
     - identifier: Roster
       name: roster
-      url: /roster/2024
+      url: /roster/2025
       weight: 20
     - identifier: Schedule
       name: schedule
-      url: /schedule/2024
+      url: /schedule/2025
       weight: 30
     - identifier: Contact
       name: contact

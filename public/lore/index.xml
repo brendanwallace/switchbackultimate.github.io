@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lore on Switchback Ultimate</title>
+    <link>http://localhost:1313/lore/</link>
+    <description>Recent content in Lore on Switchback Ultimate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/lore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the roommates</title>
+      <link>http://localhost:1313/lore/roommates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lore/roommates/</guid>
+      <description>&lt;p&gt;In 2022, three legendary besties lived together:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/roster/2022/jack-landrigan/&#34;&gt;Jack Landrigan&lt;/a&gt;,&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/roster/2022/leo-sovell-fernandez/&#34;&gt;Leo Sovell-Fernandez&lt;/a&gt;, and&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/roster/2022/molly-gallagher/&#34;&gt;Molly Gallagher&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

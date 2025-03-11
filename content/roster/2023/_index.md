@@ -1,7 +1,7 @@
 ---
 title: "2023 Roster"
 slug: "2023"
-layout: roster
+layout: singleroster
 draft: false
 showpreseason: false
 showcaptains: true

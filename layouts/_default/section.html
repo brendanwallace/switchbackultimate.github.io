@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <div class="container text-center">
+
+            
+               
+                <!--This is a the custom schedule index page-->
+
+        <div class="row">
+
+            {{ range .Pages }}
+                <p>
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+			{{ end }}
+        </div>
+
+    </div>
+{{ end }}

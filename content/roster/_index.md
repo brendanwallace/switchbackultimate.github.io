@@ -1,5 +1,5 @@
 ---
-title: All rosters
+title: Rosters
 draft: false
-layout: allrosters
+layout: section
 ---
