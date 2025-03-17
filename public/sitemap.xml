@@ -170,6 +170,10 @@
   </url><url>
     <loc>http://localhost:1313/roster/2024/steven-benaloh/</loc>
   </url><url>
+    <loc>http://localhost:1313/roster/2025/mike-fielden/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roster/2025/sam-hinson/</loc>
+  </url><url>
     <loc>http://localhost:1313/roster/2022/</loc>
   </url><url>
     <loc>http://localhost:1313/schedule/2022/</loc>
@@ -181,6 +185,8 @@
     <loc>http://localhost:1313/roster/2024/</loc>
   </url><url>
     <loc>http://localhost:1313/schedule/2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roster/2025/</loc>
   </url><url>
     <loc>http://localhost:1313/schedule/2025/</loc>
   </url><url>
